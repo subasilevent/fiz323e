@@ -1,5 +1,5 @@
 Dict(
-    "course_name" => "Name of your course",
+    "course_name" => "FIZ323E Mathematical Methods in Physics I",
     "course_subtitle" => "a short catchy phrase about your course",
     "code" => "code of your course",
     "semester" => "Fall 20XX",
